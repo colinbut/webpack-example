@@ -1,0 +1,26 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "webpack example - webpack 1",
+  "main": "app.bundle.js",
+  "bin": {
+    "webpack-example": "app.bundle.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/webpack-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "example"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/webpack-example/issues"
+  },
+  "homepage": "https://github.com/colinbut/webpack-example#readme"
+}
