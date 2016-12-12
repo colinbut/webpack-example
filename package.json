@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/colinbut/webpack-example/issues"
   },
-  "homepage": "https://github.com/colinbut/webpack-example#readme"
+  "homepage": "https://github.com/colinbut/webpack-example#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
